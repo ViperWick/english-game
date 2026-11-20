@@ -37,7 +37,7 @@
       </div>
     </div>
     <div class="secHead"><h2>🗺️ 關卡</h2><button class="btn ghost onlyLocal" onclick="go('add')">➕ 新增關卡</button></div>
-    <div id="levelGrid" class="grid"></div>
+    <div id="levelGrid" class="groups"></div>
   </section>
 
   <!-- 遊戲畫面（聽力 / 填空 / 單字共用影片區） -->
@@ -62,6 +62,8 @@
         <div class="vmsg" id="vmsg"></div>
       </div>
       <div class="qCol" id="qCol"></div>
+    </div>
+    <div class="pop" id="pop" onclick="if(event.target===this)this.classList.remove('on')"><div class="popIn" id="popIn"></div>
     </div>
   </section>
 

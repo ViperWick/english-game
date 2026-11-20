@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>英文闖關｜TOEIC 750</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎧</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header id="topbar">
+  <div class="brand" onclick="go('home')">🎧 英文闖關</div>
+  <div class="stat" title="經驗值"><span class="big" id="tXP">0</span><small>XP</small></div>
+  <div class="stat" title="玩家等級"><span class="pill" id="tLv">Lv.1</span></div>
+  <div class="stat" title="連續天數"><span class="big" id="tStreak">0</span><small>🔥天</small></div>
+  <div class="stat today" title="今日目標 100 XP">
+    <div class="ring" id="tRing"><span id="tToday">0</span></div><small>今日</small>
+  </div>
+</header>
+
+<main>
+  <!-- 首頁 -->
+  <section id="v-home" class="view">
+    <div class="goal card">
+      <div class="goalHead">
+        <div><span class="goalT">🎯 TOEIC 750 之路</span><span class="sub" id="countdown"></span></div>
+        <div class="goalNum"><b id="gNow">600</b> → 750</div>
+      </div>
+      <div class="bar big"><div class="fill" id="gBar"></div>
+        <div class="tick" style="left:0">600</div><div class="tick" style="left:33.3%">650</div><div class="tick" style="left:66.6%">700</div><div class="tick" style="left:100%">750</div>
+      </div>
+      <div class="goalStats">
+        <div><b id="sListen">0</b><small>聽力答對</small></div>
+        <div><b id="sFill">0</b><small>填空答對</small></div>
+        <div><b id="sWords">0</b><small>熟記單字</small></div>
+        <div><b id="sDue">0</b><small>今天該複習</small></div>
+      </div>
+    </div>
+    <div class="secHead"><h2>🗺️ 關卡</h2><button class="btn ghost onlyLocal" onclick="go('add')">➕ 新增關卡</button></div>
+    <div id="levelGrid" class="grid"></div>
+  </section>
+
+  <!-- 遊戲畫面（聽力 / 填空 / 單字共用影片區） -->
+  <section id="v-game" class="view">
+    <div class="gameTop">
+      <button class="btn ghost sm" onclick="quitGame()">← 回首頁</button>
+      <div class="gTitle" id="gTitle"></div>
+      <div class="qbar"><div class="fill" id="qBar"></div></div>
+      <div class="combo" id="combo"></div>
+    </div>
+    <div class="stage">
+      <div class="videoCol" id="videoCol">
+        <div class="playerBox">
+          <div id="player"></div>
+          <div class="cover" id="cover" onclick="toggleCover()"><div class="pulse">🎧</div><small>只用耳朵聽！點一下偷看畫面</small></div>
+        </div>
+        <div class="ctrl">
+          <button class="btn play" id="bPlay" onclick="replay()">🔊 播放</button>
+          <button class="btn toggle" id="bSlow" onclick="toggleSlow()">🐢 0.75x</button>
+          <button class="btn toggle" id="bCover" onclick="toggleCover()">🙈 遮畫面</button>
+        </div>
+        <div class="vmsg" id="vmsg"></div>
+      </div>
+      <div class="qCol" id="qCol"></div>
+    </div>
+  </section>
+
+  <!-- 結果 -->
+  <section id="v-result" class="view">
+    <div class="card result">
+      <div class="stars" id="rStars"></div>
+      <div class="rScore" id="rScore"></div>
+      <div class="rXP" id="rXP"></div>
+      <div class="rMsg" id="rMsg"></div>
+      <div class="rBtns">
+        <button class="btn primary" id="rAgain">🔁 再玩一次</button>
+        <button class="btn ghost" onclick="go('home')">🏠 回首頁</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 新增關卡 -->
+  <section id="v-add" class="view">
+    <div class="card addCard">
+      <h2>➕ 新增關卡</h2>
+      <p class="sub">貼上 YouTube 影片連結 → 自動抓英文字幕、出題</p>
+      <div class="addRow">
+        <input id="addUrl" placeholder="https://www.youtube.com/watch?v=..." onkeydown="if(event.key==='Enter')addLevel()">
+        <button class="btn primary" id="addBtn" onclick="addLevel()">🚀 做關卡</button>
+      </div>
+      <div id="addOut"></div>
+    </div>
+    <div class="secHead"><h2>🎬 自己加的關卡</h2></div>
+    <div id="autoList" class="autoList"></div>
+    <button class="btn ghost" onclick="go('home')">🏠 回首頁</button>
+  </section>
+</main>
+<footer class="foot">🎧 英文闖關 · Made by ViperWick · 影片版權屬原頻道</footer>
+<div id="toast"></div>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script>window.EG_STATIC = true;</script>
+<script src="app.js"></script>
+</body>
+</html>

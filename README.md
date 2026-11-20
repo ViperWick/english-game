@@ -16,7 +16,7 @@
 | 關卡 | 影片 | 頻道 |
 |---|---|---|
 | 1 | [Anthropic’s Market Debut And What Comes Next For NVIDIA ｜ November mARKet Update](https://www.youtube.com/watch?v=YaL36bM-8Z0) | [ARK Funds](https://www.youtube.com/@ARKFunds) |
-| 2 | [不開除人的老闆，自己離開了｜黃仁勳：「我寧可磨練他們成就卓越」辭職前兩年半談為什麼不開除人｜真實訪談精選、單字解釋、雙語字幕](https://www.youtube.com/watch?v=wzTvzCbbmvc) | [一句英文 One Sentence English](https://www.youtube.com/@onesentence-english) |
+| 2 | [A conversation with NVIDIA’s Jensen Huang](https://www.youtube.com/watch?v=8Pfa8kPjUio) | [Stripe](https://www.youtube.com/@stripe) |
 
 影片與字幕的版權屬於原頻道；遊戲直接嵌入 YouTube 原影片播放，題目句子取自影片字幕，用來練習英文。請到原頻道支持創作者。
 

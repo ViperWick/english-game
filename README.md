@@ -28,6 +28,8 @@
 | [Wall Street’s $500 Billion Pledge to Nvidia Hasn’t Materialized](https://www.wsj.com/world/wall-street-pledged-500-billion-for-nvidia-not-a-dollar-has-been-deployed-6bee9560) | WSJ The 10-Point | 2026-11-19 |
 | [The Bond Market’s Surprising Take on the AI Trade](https://www.wsj.com/finance/investing/the-bond-markets-surprising-take-on-the-ai-trade-a04e0b76) | WSJ Markets A.M. | 2026-11-19 |
 | [Cost Pressures in the Pipeline Could Keep Inflation High](https://www.wsj.com/economy/global/cost-pressures-already-in-pipeline-to-fuel-higher-inflation-d2062d65) | WSJ Wealth Adviser Briefing | 2026-11-19 |
+| [Grabbing Inflation Protection Now Is a No-Brainer](https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e) | WSJ Markets A.M. | 2026-11-20 |
+| [Anthropic’s IPO Fails to Revive AI Trade](https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b) | WSJ The 10-Point | 2026-11-20 |
 
 文章版權屬於原出版者。網路版只引用出題用的少量短句（每篇最多 15 句），不放全文；**全文請看原文**（多數需訂閱）。
 

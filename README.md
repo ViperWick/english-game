@@ -17,6 +17,9 @@
 |---|---|---|
 | 1 | [Anthropic’s Market Debut And What Comes Next For NVIDIA ｜ November mARKet Update](https://www.youtube.com/watch?v=YaL36bM-8Z0) | [ARK Funds](https://www.youtube.com/@ARKFunds) |
 | 2 | [A conversation with NVIDIA’s Jensen Huang](https://www.youtube.com/watch?v=8Pfa8kPjUio) | [Stripe](https://www.youtube.com/@stripe) |
+| 3 | [The AI Shakeup Has A Message ｜ The Brainstorm 158](https://www.youtube.com/watch?v=hQccIpZp998) | [ARK Invest](https://www.youtube.com/@ARKInvest2015) |
+| 4 | [Our Updated Tesla Valuation, Explained](https://www.youtube.com/watch?v=14BM0NotCf4) | [ARK Invest](https://www.youtube.com/@ARKInvest2015) |
+| 5 | [The Rise and Reckoning of Jensen Huang ｜ The Circuit with Emily Chang](https://www.youtube.com/watch?v=JW5s9Md4U2U) | [Bloomberg Originals](https://www.youtube.com/@business) |
 
 影片與字幕的版權屬於原頻道；遊戲直接嵌入 YouTube 原影片播放，題目句子取自影片字幕，用來練習英文。請到原頻道支持創作者。
 

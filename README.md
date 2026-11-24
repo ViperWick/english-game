@@ -20,6 +20,7 @@
 | 3 | [The AI Shakeup Has A Message ｜ The Brainstorm 158](https://www.youtube.com/watch?v=hQccIpZp998) | [ARK Invest](https://www.youtube.com/@ARKInvest2015) |
 | 4 | [Our Updated Tesla Valuation, Explained](https://www.youtube.com/watch?v=14BM0NotCf4) | [ARK Invest](https://www.youtube.com/@ARKInvest2015) |
 | 5 | [The Rise and Reckoning of Jensen Huang ｜ The Circuit with Emily Chang](https://www.youtube.com/watch?v=JW5s9Md4U2U) | [Bloomberg Originals](https://www.youtube.com/@business) |
+| 6 | [Elon Musk on Why the Future Should Make You Glad to Be Alive ｜ TomorrowX Summit](https://www.youtube.com/watch?v=DY8clym2-jQ) | [iConnections](https://www.youtube.com/@iconnections) |
 
 影片與字幕的版權屬於原頻道；遊戲直接嵌入 YouTube 原影片播放，題目句子取自影片字幕，用來練習英文。請到原頻道支持創作者。
 

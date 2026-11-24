@@ -36,6 +36,8 @@
 | [Anthropic’s IPO Sparks a Blame Game](https://www.wsj.com/articles/anthropics-rocky-debut-has-wall-street-pointing-fingers-3a6d3a88) | WSJ The 10-Point | 2026-11-21 |
 | [Data Centers Are the Growth Engine of America’s Power Grid](https://www.wsj.com/business/energy-oil/see-how-data-centers-became-the-growth-engine-of-americas-power-grid-70399f64) | WSJ Wealth Adviser Briefing | 2026-11-20 |
 | [Kim Jong Un Isn’t Returning Trump’s Calls](https://www.wsj.com/articles/north-korea-keeps-building-nukesand-ghosting-trump-dcffdc77) | WSJ The 10-Point | 2026-11-22 |
+| Anthropic’s Record IPO Highlights The Economics Of Frontier AI | ARK Invest Newsletter | 2026-11-23 |
+| [Pouncing on Anthropic Won’t Make You Rich](https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06) | WSJ Markets A.M. | 2026-11-23 |
 
 文章版權屬於原出版者。網路版只引用出題用的少量短句（每篇最多 15 句），不放全文；**全文請看原文**（多數需訂閱）。
 

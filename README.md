@@ -42,6 +42,8 @@
 | [Kim Jong Un Isn’t Returning Trump’s Calls](https://www.wsj.com/articles/north-korea-keeps-building-nukesand-ghosting-trump-dcffdc77) | WSJ The 10-Point | 2026-11-22 |
 | Anthropic’s Record IPO Highlights The Economics Of Frontier AI | ARK Invest Newsletter | 2026-11-23 |
 | [Pouncing on Anthropic Won’t Make You Rich](https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06) | WSJ Markets A.M. | 2026-11-23 |
+| [AI Build-Out Is Far-Reaching for U.S. Economy](https://www.wsj.com/finance/investing/ai-build-out-is-far-reaching-for-u-s-economy-88d35b9d) | WSJ Wealth Adviser Briefing | 2026-11-24 |
+| [It’s OpenAI’s Turn to Sweat](https://www.wsj.com/tech/ai/openais-ipo-countdown-clock-is-ticking-7e12436c) | WSJ AI & Business | 2026-11-24 |
 
 文章版權屬於原出版者。網路版只引用出題用的少量短句（每篇最多 15 句），不放全文；**全文請看原文**（多數需訂閱）。
 
